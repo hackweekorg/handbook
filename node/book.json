@@ -1,6 +1,6 @@
 {
     "author": "HackWeek技术组 <code@hackweek.org>",
-    "title": "HackWeek JS网页特效",
+    "title": "HackWeek Node开发入门",
     "links": {
         "sharing": {
             "all": null,
@@ -25,7 +25,7 @@
 
     "pluginsConfig": {
       "editlink": {
-      "base": "https://github.com/hackweekorg/handbook/edit/master/jsdom",
+      "base": "https://github.com/hackweekorg/handbook/edit/master/node",
       "label": "编辑本页",
       "multilingual": false
     },
