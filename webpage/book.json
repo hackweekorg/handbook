@@ -1,0 +1,57 @@
+{
+    "author": "HackWeek技术组 <code@hackweek.org>",
+    "title": "HackWeek python开发入门",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {}
+    },
+
+   "plugins": [
+        "include-codeblock",
+        "ace",
+        "-fontsettings",
+        "prism", 
+        "-highlight",
+        "editlink",
+        "lunr",
+        "search"        
+     ],
+
+    "pluginsConfig": {
+      "editlink": {
+      "base": "https://github.com/hackweekorg/handbook/edit/master/python",
+      "label": "编辑本页",
+      "multilingual": false
+    },
+       "prism": {
+        "css": ["prismjs/themes/prism-tomorrow.css"],
+         "lang": {"flow": "typescript"}
+        },
+
+       "include-codeblock": {
+            "template": "ace",
+            "unindent": true,
+            "theme": "monokai"
+        }
+    },
+
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    }
+}
