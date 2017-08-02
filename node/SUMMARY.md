@@ -1,6 +1,6 @@
 # Summary
 
-* [网页开发学习说明](README.md)
+* [Nodejs开发学习说明](README.md)
 * [周一：周一学习内容](mon.md)
 * [周二：周二学习内容](tues.md)
 * [周三：周三学习内容](wed.md)
